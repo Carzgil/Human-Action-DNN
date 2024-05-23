@@ -1,6 +1,6 @@
 # Human-Action-DNN
-In this project, I will be making a CNN in order to predict human actions in images.  Using a massive dataset found on kaggle: https://www.kaggle.com/datasets/emirhanai/human-action-detection-artificial-intelligence, 
-I will traing the CNN. More details on the architecture are below.  
+In this project, I will be making a CNN in order to predict human actions in images.  Using a massive dataset found on kaggle: https://www.kaggle.com/datasets/emirhanai/human-action-detection-artificial-intelligence , 
+I will train the CNN. More details on the architecture are below.  
 
 The goal of this is to create the framework for a CNN I can use for real-time running form analysis. Since the massive explosion of runners, my collegues and I are working on an application that will replace PT for runners. Utilizing this CNN, we hope to implement it to find errors in running form.  
 
